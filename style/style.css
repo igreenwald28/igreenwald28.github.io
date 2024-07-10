@@ -30,7 +30,7 @@ h1{
 }
 .landscape {
     width: 33%;
-    aspect-ratio: 3/2;
+    height: auto;
     margin-left: .2%;
     float: left;
 
