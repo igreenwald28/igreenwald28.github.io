@@ -49,11 +49,9 @@ h1{
     border: 10px solid white;
 }
 .landscape {
-    height: 338px;
-    width: 503px;
-    <!--border: 10px solid white;-->
-    <!-- margin-top: 50px; -->
-    <!-- margin-left: 50px;-->
+    height: fit-content;
+    width: 33%;
+    margin-left: .2%;
     float: left;
 
 }
