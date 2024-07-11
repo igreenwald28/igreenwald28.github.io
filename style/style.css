@@ -20,17 +20,9 @@ h1{
 
 
 
-.portrait {
-    height: 510px;
-    width: 340px;
-    /* margin-left: 50px;
-    margin-top: 50px; */
-    float: left;
-    border: 10px solid white;
-}
 .landscape {
     width: 33%;
-    aspect-ratio: 3/2;
+    height: auto;
     margin-left: .2%;
     float: left;
 
