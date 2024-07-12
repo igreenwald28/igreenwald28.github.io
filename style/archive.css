@@ -47,39 +47,36 @@ p{
 
 .portrait {
     width: 60%;
+
+    /* 25.2*/
     border: 6px solid white;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 5%;
+    margin-top: 5%;
 
 }
 
 .landscape {
+    /* 16.8 */
     width: 90%;
     border: 6px solid white;
-    margin-top: 85px;
-    margin-bottom: 85px;
+    margin-top: 19.8%;
+    margin-bottom: 19.8%;
 }
 
-img{
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: center;
-    display: inline-block;
-}
+
 
 .rec{
     width: 90%;
     border: 7px solid white;
-    margin-top: 55px;
-    margin-bottom: 55px;
+    margin-top: 14%;
+    margin-bottom: 14%;
 
 }
 
 .long{
     width: 90%;
     border: 7px solid white;
-    margin-top: 102px;
-    margin-bottom: 102px;
+    margin-top: 25%;
+    margin-bottom: 25%;
 
 }
