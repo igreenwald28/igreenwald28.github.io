@@ -9,6 +9,7 @@ header{
     justify-content: left;
     align-items: center;
     background-color: #878787;
+    margin-bottom: 3%;
 }
 .home{
     text-decoration: none;
@@ -16,7 +17,7 @@ header{
     float: left;
     font-size: 30px;
     margin-left: 5%;
-    margin-top: 2.5%;
+    margin-top: 1.8%;
     font-family: impact, sans-serif;
     letter-spacing: 4px;
 }
