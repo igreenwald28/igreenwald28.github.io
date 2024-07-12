@@ -3,14 +3,12 @@
     padding: 0;
 }
 
-
 p{
     text-align: center;
     color: #3b3b3b;
     letter-spacing: 1px;
     font-family: impact, sans-serif;
-    margin-top: 30px;
-    margin-bottom: 20px;
+    margin: 5% 20%;
 }
 
 .column1 {
@@ -58,14 +56,11 @@ p{
     margin-bottom: 19.8%;
 }
 
-
-
 .rec{
     width: 90%;
     border: 7px solid white;
     margin-top: 14%;
     margin-bottom: 14%;
-
 }
 
 .long{
