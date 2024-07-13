@@ -8,17 +8,23 @@ img{
     margin-bottom: -0.1%;
 }
 
-.nycfilmportrait{
+.pnyc{
     width: 12.45%;
 }
-.nycfilmlandscape{
+.lnyc{
     width: 28%;
 }
-.vietnamfilmportrait{
+.pvietnam{
     width: 12.85%;
 }
-.vietnamfilmlandscape{
+.lvietnam{
     width: 29.05%;
+}
+.ppnw{
+    width: 15.5%;
+}
+.lpnw{
+    width: 34.75%;
 }
 
 div{
