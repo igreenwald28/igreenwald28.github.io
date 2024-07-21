@@ -5,57 +5,63 @@
     <title>35mm</title>
     <link rel="stylesheet" href="style/35mm.css">
     <link rel="stylesheet" href="style/header.css">
+    <script src="js/35mm.js"></script>
 </head>
 <header>
-    <a  href="https://www.instagram.com/waldgreens.photo/" target="_blank"><img class="logo" src="insta.png"></a>
+    <div id="background1" class="background1">
+
+    </div>
+    <a href="https://www.instagram.com/waldgreens.photo/" target="_blank"><img class="logo" src="insta.png"></a>
     <a class="btn" href=""> CONTACT </a>
     <a style="color: black;" class="btn" href=""> 35MM </a>
     <a class="btn" href="https://igreenwald28.github.io/digital"> DIGITAL </a>
     <a class="home" href="https://igreenwald28.github.io/">ISAAC GREENWALD</a>
 </header>
-
-<body>
-    <div>
-        <img class="lnyc" alt="" src="bw/bw1.jpg">
-        <img class="lnyc" alt="" src="bw/bw2.jpg">
-        <img class="pnyc" alt="" src="bw/bw3.jpg">
-        <img class="lnyc" alt="" src="bw/bw5.jpg">
-        <img class="pnyc" alt="" src="bw/bw11.jpg">
-        <img class="lnyc" alt="" src="bw/bw6.jpg">
-        <img class="lnyc" alt="" src="bw/bw7.jpg">
-        <img class="lnyc" alt="" src="bw/bw8.jpg">
-        <img class="lnyc" alt="" src="bw/bw10.jpg">
-        <img class="pnyc" alt="" src="bw/bw4.jpg">
-        <img class="lnyc" alt="" src="bw/bw9.jpg">
-        <img class="lnyc" alt="" src="bw/bw12.jpg">
-    </div>
-
-    <div>
-        <img class="lvietnam" alt="" src="color/namfilm1.jpg">
-        <img class="pvietnam" alt="" src="color/namfilm2.jpg">
-        <img class="pvietnam" alt="" src="color/namfilm3.jpg">
-        <img class="pvietnam" alt="" src="color/namfilm4.jpg">
-        <img class="lvietnam" alt="" src="color/namfilm6.jpg">
-        <img class="pvietnam" alt="" src="color/namfilm5.jpg">
-        <img class="lvietnam" alt="" src="color/namfilm7.jpg">
-        <img class="pvietnam" alt="" src="color/namfilm8.jpg">
-        <img class="lvietnam" alt="" src="color/namfilm11.jpg">
-        <img class="pvietnam" alt="" src="color/namfilm9.jpg">
-    </div>
-
-    <div>
-        <img class="ppnw" alt="" src="color/pnw0.jpg">
-        <img class="ppnw" alt="" src="color/pnw1.jpg">
-        <img class="ppnw" alt="" src="color/pnw2.jpg">
-        <img class="lpnw" alt="" src="color/pnw3.jpg">
-        <img class="ppnw" alt="" src="color/pnw4.jpg">
-        <img class="ppnw" alt="" src="color/pnw9.jpg">
-        <img class="lpnw" alt="" src="color/pnw6.jpg">
-        <img class="ppnw" alt="" src="color/pnw7.jpg">
-        <img class="ppnw" alt="" src="color/pnw8.jpg">
-        <img class="ppnw" alt="" src="color/pnw5.jpg">
+<body id="body1">
+    <div id="background2" class="background2">
 
     </div>
-
+    <div class="holder">
+        <img id = "nycfilm1" class="lnyc small" alt="" src="bw/bw1.jpg" onClick="enlargeImage(this.id)">
+        <img id = "nycfilm2" class="lnyc small" alt="" src="bw/bw2.jpg" onClick = "enlargeImage(this.id)">
+        <img id = "nycfilm3" class="pnyc small" alt="" src="bw/bw3.jpg" onClick="enlargeImage(this.id)">
+        <img id = "nycfilm5" class="lnyc small" alt="" src="bw/bw5.jpg" onClick="enlargeImage(this.id)">
+    </div>
+    <div class="holder">
+        <img id="nycfilm11" class="pnyc small" alt="" src="bw/bw11.jpg" onClick="enlargeImage(this.id)">
+        <img id="nycfilm6" class="lnyc small" alt="" src="bw/bw6.jpg" onClick="enlargeImage(this.id)">
+        <img id="nycfilm7" class="lnyc small" alt="" src="bw/bw7.jpg" onClick="enlargeImage(this.id)">
+        <img id="nycfilm8" class="lnyc small" alt="" src="bw/bw8.jpg" onClick="enlargeImage(this.id)">
+    </div>
+    <div class="holder">
+        <img id="nycfilm10" class="lnyc small" alt="" src="bw/bw10.jpg" onClick="enlargeImage(this.id)">
+        <img id="nycfilm4" class="pnyc small" alt="" src="bw/bw4.jpg" onClick="enlargeImage(this.id)">
+        <img id="nycfilm9" class="lnyc small" alt="" src="bw/bw9.jpg" onClick="enlargeImage(this.id)">
+        <img id="nycfilm12" class="lnyc small" alt="" src="bw/bw12.jpg" onClick="enlargeImage(this.id)">
+    </div>
+    <div class="holder">
+        <img id="vietnam1" class="lvietnam small" alt="" src="color/namfilm1.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam2" class="pvietnam small" alt="" src="color/namfilm2.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam3" class="pvietnam small" alt="" src="color/namfilm3.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam4" class="pvietnam small" alt="" src="color/namfilm4.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam6" class="lvietnam small" alt="" src="color/namfilm6.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam5" class="pvietnam small" alt="" src="color/namfilm5.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam7" class="lvietnam small" alt="" src="color/namfilm7.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam8" class="pvietnam small" alt="" src="color/namfilm8.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam11" class="lvietnam small" alt="" src="color/namfilm11.jpg" onClick="enlargeImage(this.id)">
+        <img id="vietnam9" class="pvietnam small" alt="" src="color/namfilm9.jpg" onClick="enlargeImage(this.id)">
+    </div>
+    <div class="holder">
+        <img id="pnw0" class="ppnw small" alt="" src="color/pnw0.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw1" class="ppnw small" alt="" src="color/pnw1.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw2" class="ppnw small" alt="" src="color/pnw2.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw3" class="lpnw small" alt="" src="color/pnw3.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw4" class="ppnw small" alt="" src="color/pnw4.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw9" class="ppnw small" alt="" src="color/pnw9.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw6" class="lpnw small" alt="" src="color/pnw6.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw7" class="ppnw small" alt="" src="color/pnw7.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw8" class="ppnw small" alt="" src="color/pnw8.jpg" onClick="enlargeImage(this.id)">
+        <img id="pnw5" class="ppnw small" alt="" src="color/pnw5.jpg" onClick="enlargeImage(this.id)">
+    </div>
 </body>
 </html>
