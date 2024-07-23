@@ -1,9 +1,8 @@
 
 function enlargeImage(id){
-    
+
     const image1 = document.getElementById(id);
     const back1 = document.getElementById("background1");
-    const back2 = document.getElementById("background2");
     const body1 = document.getElementById("body1");
     let w = image1.clientWidth;
     let h = image1.clientHeight;
@@ -19,14 +18,11 @@ function enlargeImage(id){
         let doublew = w*2;
         image1.style.height = doubleh.toString() + 'px';
         image1.style.width = doublew.toString() + 'px';
-        image1.style.zIndex = "2";
         image1.style.position = "fixed";
         image1.style.left = (screenw/2 - w).toString() + 'px';
         image1.style.top = (screenh/2 - h).toString() + 'px';
         back1.style.zIndex="1";
-        back2.style.zIndex="1";
         body1.classList.add("scroll");
-
     }
     else {
         image1.classList.remove("big");
@@ -40,9 +36,7 @@ function enlargeImage(id){
         image1.style.top=top.toString() + 'px';
         image1.style.position = "relative";
         back1.style.zIndex="-1";
-        back2.style.zIndex="-1";
         body1.classList.remove("scroll");
-
     }
 
 

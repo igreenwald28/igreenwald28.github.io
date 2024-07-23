@@ -3,6 +3,12 @@ body{
     background-color: #878787;
 }
 
+.lock{
+    height: 100%;
+    overflow: hidden;
+}
+
+
 header{
     width: 100%;
     height: 80px;

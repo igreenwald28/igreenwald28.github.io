@@ -5,43 +5,40 @@
     <title>Pacific Northwest</title>
     <link rel="stylesheet" href="style/archive.css">
     <link rel="stylesheet" href="style/header.css">
+    <script src="js/archive.js"></script>
 </head>
 <header>
-    <a  href="https://www.instagram.com/waldgreens.photo/" target="_blank"><img class="logo" src="insta.png"></a>
+    <div id="background1" class="background1"></div>
+    <a  href="https://www.instagram.com/waldgreens.photo/" target="_blank"><img class="logo" alt="" src="insta.png"></a>
     <a class="btn" href=""> CONTACT </a>
     <a class="btn" href="https://igreenwald28.github.io/35mm"> 35MM </a>
     <a style="color: black;" class="btn" href="https://igreenwald28.github.io/digital"> DIGITAL </a>
     <a class="home" href="https://igreenwald28.github.io/">ISAAC GREENWALD</a>
 </header>
-<body>
+<body id="body1">
 <div>
     <p> A collection of images taken during a visit to Seattle and Vancouver, March 2024. </p>
 </div>
 
 <div class="row">
     <div class="column1">
-        <img class="portrait" alt="" src="/digi/pacnw/sb3.jpg">
-        <img class="landscape" alt="" src="/digi/pacnw/sb7.jpg">
-        <img class="portrait" alt="" src="/digi/pacnw/sb6.jpg">
+        <img id="sb3" class="portraits" alt="" src="/digi/pacnw/sb3.jpg" onClick="enlargeImage(this.id)">
+        <img id="sb7" class="landscapes" alt="" src="/digi/pacnw/sb7.jpg" onClick="enlargeImage(this.id)">
+        <img id="sb6" class="portraits" alt="" src="/digi/pacnw/sb6.jpg" onClick="enlargeImage(this.id)">
 
     </div>
     <div class="column2">
-        <img class="landscape"  alt="" src="/digi/pacnw/sb4.jpg">
-        <img class="portrait" alt="" src="/digi/pacnw/sb2.jpg">
-        <img class="landscape" alt="" src="/digi/pacnw/sb1.jpg">
+        <img id="sb4" class="landscapes"  alt="" src="/digi/pacnw/sb4.jpg" onClick="enlargeImage(this.id)">
+        <img id="sb2" class="portraits" alt="" src="/digi/pacnw/sb2.jpg" onClick="enlargeImage(this.id)">
+        <img id="sb1" class="landscapes" alt="" src="/digi/pacnw/sb1.jpg" onClick="enlargeImage(this.id)">
 
     </div>
     <div class="column3">
-        <img class="portrait" alt="" src="/digi/pacnw/sb8.jpg">
-        <img class="portrait" alt="" src="/digi/pacnw/sb5.jpg">
-        <img class="portrait" alt="" src="/digi/pacnw/sb9.jpg">
+        <img id="sb8" class="portraits" alt="" src="/digi/pacnw/sb8.jpg" onClick="enlargeImage(this.id)">
+        <img id="sb5" class="portraits" alt="" src="/digi/pacnw/sb5.jpg" onClick="enlargeImage(this.id)">
+        <img id="sb9" class="portraits" alt="" src="/digi/pacnw/sb9.jpg" onClick="enlargeImage(this.id)">
 
     </div>
 </div>
-
-<body>
-
 </body>
-
-
 </html>
