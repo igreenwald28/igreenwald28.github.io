@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.bar{
+    margin-bottom: 5%;
+}
+
 p{
     font-family: impact, sans-serif;
     text-align: center;
@@ -10,11 +14,19 @@ p{
     letter-spacing: 2px;
 }
 h1{
-    font-family: impact, sans-serif;
+    font-family: raleway, sans-serif;
     text-align: center;
     letter-spacing: 3px;
     color: #3b3b3b;
-    margin-top: 50px;
+    font-weight: 600;
+    margin-top: 24%;
+}
+h3{
+    font-family: raleway, sans-serif;
+    text-align: left;
+    color: #3b3b3b;
+    margin: 1% 32% 2% 32%;
+    font-weight: 550;
 }
 
 .landscape {
