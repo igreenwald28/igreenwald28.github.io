@@ -15,7 +15,7 @@ img{
 .background1{
     width: 100%;
     height: 100%;
-    background-color: #878787;
+    background-color: black;
     opacity: 90%;
     position: fixed;
     z-index: -2;
