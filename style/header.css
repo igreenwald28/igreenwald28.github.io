@@ -1,6 +1,6 @@
 
 body{
-    background-color: #878787;
+    background-color: black;
 }
 
 .lock{
@@ -14,12 +14,12 @@ header{
     height: 80px;
     justify-content: left;
     align-items: center;
-    background-color: #878787;
+    background-color: black;
     margin-bottom: 1%;
 }
 .home{
     text-decoration: none;
-    color: #3b3b3b;
+    color: white;
     float: left;
     font-size: 30px;
     margin-left: 5%;
@@ -30,7 +30,7 @@ header{
 
 .btn{
     text-decoration: none;
-    color: #3b3b3b;
+    color: white;
     float: right;
     font-size: 20px;
     margin-right: 1.5%;
@@ -40,9 +40,13 @@ header{
 }
 
 .logo{
-    width: 2.5%;
+    width: 2%;
     float: right;
     margin-right: 3%;
-    margin-top: 1.8%;
+    margin-top: 2.1%;
+}
+
+.selected {
+    color: #878787;
 }
 

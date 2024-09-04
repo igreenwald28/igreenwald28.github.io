@@ -11,6 +11,10 @@
     margin-top: 50px;
 }
 
+.scroll{
+    overflow: hidden;
+}
+
 .column2{
     float: left;
     width: 20%;
@@ -46,13 +50,17 @@ img{
 p{
     font-family: impact, sans-serif;
     text-align: center;
-    color: #3b3b3b;
+    color: white;
     letter-spacing: 2px;
     margin-bottom: 50px;
+    font-weight: lighter;
 }
 h2{
     font-family: impact, sans-serif;
     text-align: center;
     letter-spacing: 3px;
-    color: #3b3b3b;
+    color: white;
+    font-weight: lighter;
+
+
 }
