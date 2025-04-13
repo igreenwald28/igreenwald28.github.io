@@ -1,0 +1,62 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: black; 
+    margin-top: 1%;
+    margin-bottom: 5%;
+
+  }
+  
+  .title {
+    font-size: 30px;
+    color: white; 
+    font-family: impact, sans-serif;
+    letter-spacing: 4px;
+    margin-left: 2%;
+    text-decoration: none;
+
+  }
+  
+  .right-section {
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 15px; 
+  }
+  
+  .button {
+    padding: 8px 16px;
+    margin-top: 1%;
+    border: none;
+    background: none; 
+    color: white;
+    cursor: pointer;
+    transition: color 0.3s ease; 
+    font-size: 20px;
+    font-family: impact, sans-serif;
+    letter-spacing: 1px;
+    
+  }
+  
+  .button:hover {
+    color: #ccc; 
+  }
+  
+  .instagram-button {
+    margin-top: 1.1%;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
+  
+  .instagram-button img {
+    width: 24px;
+    height: 24px;
+  }
