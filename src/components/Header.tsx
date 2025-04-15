@@ -15,7 +15,7 @@ const Header: React.FC<HeaderProps> = ({ onDigitalClick }) => {
 
     const handleInstagramClick = (e: React.MouseEvent) => {
         e.preventDefault();
-        window.open('https://www.instagram.com/your-instagram-handle', '_blank'); 
+        window.open('https://www.instagram.com/waldgreens.photo/', '_blank'); 
     };
 
     return (
