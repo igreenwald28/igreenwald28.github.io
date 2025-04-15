@@ -1,133 +1,117 @@
 {
-    "italy": {
-      "title": "Italy Collection",
-      "images": [
-        { "src": "/photos/digi/italy/italy1.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy21.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/italy/italy2.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy3.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy4.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy5.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/italy/italy6.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy7.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy8.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy9.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy10.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/italy/italy11.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy12.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy13.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy22.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/italy/italy14.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy15.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy16.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy17.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy18.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy19.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/italy/italy20.jpg", "orientation": "portrait"}
-      ]
-    },
-    "vietnam": {
-      "title": "Vietnam Collection",
-      "images": [
-        { "src": "/photos/digi/vietnam/vietnam3.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam5.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam6.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam22.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam7.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam8.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam18.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam9.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam10.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam13.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam1.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam14.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam15.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam16.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam4.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam17.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam2.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam19.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam20.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam23.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/vietnam/vietnam24.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/vietnam/vietnam25.jpg", "orientation": "portrait"}
-      ]
-    }, 
-    "centeur": {
-      "title": "Central Europe Collection",
-      "images": [
-        { "src": "/photos/digi/centeur/buda1.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/centeur/buda2.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/buda3.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/centeur/germany1.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/germany2.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/centeur/germany4.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/germany6.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/germany7.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/germany8.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/centeur/germany9.jpg", "orientation": "landscape"},
-        { "src": "/photos/digi/centeur/germany10.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/germany11.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/prague1.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/prague2.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/prague3.jpg", "orientation": "portrait"},
-        { "src": "/photos/digi/centeur/vienna1.jpg", "orientation": "portrait"} 
-      ]
-    }, 
-    "montana": {
-      "title": "Montana Collection",
-      "images": [
-        {"src": "/photos/digi/montana/montana1.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/montana/montana2.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/montana/montana3.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/montana/montana4.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/montana/montana5.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/montana/montana6.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/montana/montana8.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/montana/montana7.jpg", "orientation": "portrait"}
-      ]
-    }, 
-    "nyc": {
-      "title": "NYC Collection",
-      "images": [
-        {"src": "/photos/digi/nyc/nyc1.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/nyc/nyc3.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/nyc/nyc4.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/nyc/nyc5.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/nyc/nyc2.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/nyc/nyc6.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/nyc/nyc7.jpg", "orientation": "landscape"}
-      ]
-    },
-    "pacnw": {
-      "title": "Pacific Northwest Collection",
-      "images": [
-        {"src": "/photos/digi/pacnw/sb2.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/pacnw/sb3.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/pacnw/sb4.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/pacnw/sb5.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/pacnw/sb6.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/pacnw/sb7.jpg", "orientation": "landscape"},
-        {"src": "/photos/digi/pacnw/sb8.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/pacnw/sb9.jpg", "orientation": "portrait"},
-        {"src": "/photos/digi/pacnw/sb1.jpg", "orientation": "landscape"}
-      ]
-    },
-    "film": {
-      "title": "Film Collection",
-      "images": [
-        {"src": "/photos/bw/nyc/bw1.jpg", "orientation": "landscape"},
-        {"src": "/photos/bw/nyc/bw2.jpg", "orientation": "landscape"},
-        {"src": "/photos/bw/nyc/bw3.jpg", "orientation": "portrait"},
-        {"src": "/photos/bw/nyc/bw5.jpg", "orientation": "landscape"},
-        {"src": "/photos/bw/nyc/bw4.jpg", "orientation": "portrait"},
-        {"src": "/photos/bw/nyc/bw6.jpg", "orientation": "landscape"},
-        {"src": "/photos/bw/nyc/bw7.jpg", "orientation": "landscape"},
-        {"src": "/photos/bw/nyc/bw8.jpg", "orientation": "landscape"},
-        {"src": "/photos/bw/nyc/bw9.jpg", "orientation": "landscape"},
-        {"src": "/photos/bw/nyc/bw10.jpg", "orientation": "landscape"},
-        {"src": "/photos/bw/nyc/bw11.jpg", "orientation": "portrait"},
-        {"src": "/photos/bw/nyc/bw12.jpg", "orientation": "landscape"}
-      ]
-    }
+  "collections": {
+    "italy":[
+      { "src": "/photos/digi/italy/italy1.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy21.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/italy/italy2.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy3.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy4.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy5.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/italy/italy6.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy7.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy8.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy9.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy10.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/italy/italy11.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy12.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy13.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy22.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/italy/italy14.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy15.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy16.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy17.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy18.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy19.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/italy/italy20.jpg", "orientation": "portrait"}
+    ],
+    "vietnam" :[
+      { "src": "/photos/digi/vietnam/vietnam3.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam5.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam6.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam22.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam7.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam8.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam18.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam9.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam10.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam13.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam1.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam14.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam15.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam16.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam4.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam17.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam2.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam19.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam20.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam23.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam24.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam25.jpg", "orientation": "portrait"}
+    ], 
+    "centraleurope":[
+      { "src": "/photos/digi/centeur/buda1.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/centeur/buda2.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/buda3.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/centeur/germany1.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/germany2.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/centeur/germany4.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/germany6.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/germany7.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/germany8.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/centeur/germany9.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/centeur/germany10.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/germany11.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/prague1.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/prague2.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/prague3.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/centeur/vienna1.jpg", "orientation": "portrait"} 
+    ],
+    "montana":[
+      {"src": "/photos/digi/montana/montana1.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/montana/montana2.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/montana/montana3.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/montana/montana4.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/montana/montana5.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/montana/montana6.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/montana/montana8.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/montana/montana7.jpg", "orientation": "portrait"}
+    ],
+    "nyc":[
+      {"src": "/photos/digi/nyc/nyc1.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/nyc/nyc3.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/nyc/nyc4.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/nyc/nyc5.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/nyc/nyc2.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/nyc/nyc6.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/nyc/nyc7.jpg", "orientation": "landscape"}
+    ],
+    "pacnw":[
+      {"src": "/photos/digi/pacnw/sb2.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/pacnw/sb3.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/pacnw/sb4.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/pacnw/sb5.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/pacnw/sb6.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/pacnw/sb7.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/pacnw/sb8.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/pacnw/sb9.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/pacnw/sb1.jpg", "orientation": "landscape"}
+    ],
+    "film":[
+      {"src": "/photos/bw/nyc/bw1.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/nyc/bw2.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/nyc/bw3.jpg", "orientation": "portrait"},
+      {"src": "/photos/bw/nyc/bw5.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/nyc/bw4.jpg", "orientation": "portrait"},
+      {"src": "/photos/bw/nyc/bw6.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/nyc/bw7.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/nyc/bw8.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/nyc/bw9.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/nyc/bw10.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/nyc/bw11.jpg", "orientation": "portrait"},
+      {"src": "/photos/bw/nyc/bw12.jpg", "orientation": "landscape"}
+    ]
   }
+}
+
+  
+   

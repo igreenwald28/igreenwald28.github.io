@@ -47,7 +47,7 @@ const Locations: React.FC = () => {
   ];
 
   const handleLocationClick = (locationId: string) => {
-    router.push(`/${locationId}`);
+    router.push(`/digital/${locationId}`);
   };
 
   return (
