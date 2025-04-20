@@ -21,11 +21,30 @@
 }
 
 .film-item.portrait {
-  width: calc(300px * 2/3); 
-  height: 400px;
+  width: calc(280px * 2/3); 
+  height: 280px;
 }
 
 .film-item.landscape {
-  width: calc(300 * 3/2);
-  height: 400px;
+  width: calc(280px * 3/2);
+  height: 280px;
+}
+
+.film-item:nth-child(n+13).portrait {
+  width: calc(290px * 2/3); 
+  height: 290px;
+}
+
+.film-item:nth-child(n+13).landscape {
+  width: calc(290px * 3/2);
+  height: 290px;
+}
+.film-item:nth-child(n+23).portrait {
+  width: calc(348px * 2/3); 
+  height: 348px;
+}
+
+.film-item:nth-child(n+23).landscape {
+  width: calc(348px * 3/2);
+  height: 348px;
 }

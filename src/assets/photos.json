@@ -108,7 +108,29 @@
       {"src": "/photos/bw/nyc/bw9.jpg", "orientation": "landscape"},
       {"src": "/photos/bw/nyc/bw10.jpg", "orientation": "landscape"},
       {"src": "/photos/bw/nyc/bw11.jpg", "orientation": "portrait"},
-      {"src": "/photos/bw/nyc/bw12.jpg", "orientation": "landscape"}
+      {"src": "/photos/bw/nyc/bw12.jpg", "orientation": "landscape"},
+      {"src": "/photos/color/vietnam/namfilm1.jpg", "orientation": "landscape"},
+      {"src": "/photos/color/vietnam/namfilm2.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/vietnam/namfilm3.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/vietnam/namfilm4.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/vietnam/namfilm6.jpg", "orientation": "landscape"},
+      {"src": "/photos/color/vietnam/namfilm5.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/vietnam/namfilm7.jpg", "orientation": "landscape"},
+      {"src": "/photos/color/vietnam/namfilm8.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/vietnam/namfilm11.jpg", "orientation": "landscape"},
+      {"src": "/photos/color/vietnam/namfilm9.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/pnw/pnw11.jpg", "orientation": "portrait"},     
+      {"src": "/photos/color/pnw/pnw1.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/pnw/pnw2.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/pnw/pnw3.jpg", "orientation": "landscape"},
+      {"src": "/photos/color/pnw/pnw4.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/pnw/pnw9.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/pnw/pnw6.jpg", "orientation": "landscape"},
+      {"src": "/photos/color/pnw/pnw7.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/pnw/pnw8.jpg", "orientation": "portrait"},
+      {"src": "/photos/color/pnw/pnw5.jpg", "orientation": "portrait"}
+
+
     ]
   }
 }
