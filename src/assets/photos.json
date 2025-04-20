@@ -135,10 +135,28 @@
       {"src": "/photos/bw/europe/eurofilm4.jpg", "orientation": "portrait"},
       {"src": "/photos/bw/europe/eurofilm5.jpg", "orientation": "portrait"},
       {"src": "/photos/bw/europe/eurofilm6.jpg", "orientation": "portrait"}
+    ], 
+    "climbing": [
+      {"src": "/photos/digi/climbing/climbing1.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/climbing/climbing2.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/climbing/climbing5.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/climbing/climbing4.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/climbing/climbing3.jpg", "orientation": "landscape"}
 
-
-
-
+    ],
+    "japan":[
+      {"src": "/photos/digi/japan/japan1.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/japan/japan2.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan3.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/japan/japan4.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan5.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan6.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan7.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan8.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan9.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan10.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan11.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/japan/japan12.jpg", "orientation": "landscape"}
     ]
   }
 }

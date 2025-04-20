@@ -11,6 +11,8 @@ export interface ImageCollections {
   nyc: ImageData[];
   pacnw: ImageData[];
   film: ImageData[];
+  climbing: ImageData[];
+  japan: ImageData[];
 }
 
 export interface ImageDataJSON {

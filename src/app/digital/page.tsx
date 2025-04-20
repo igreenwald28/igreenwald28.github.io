@@ -15,6 +15,16 @@ const Locations: React.FC = () => {
 
   const locations: Location[] = [
     {
+      id: 'japan',
+      image: '/photos/digi/japan/japan1.jpg',
+      description: 'JAPAN'
+    },
+    {
+      id: 'climbing',
+      image: '/photos/digi/climbing/climbing5.jpg',
+      description: 'CLIMBING'
+    },
+    {
       id: 'centraleurope',
       image: '/photos/digi/centeur/prague1.jpg',
       description: 'CENTRAL EUROPE',
@@ -44,6 +54,8 @@ const Locations: React.FC = () => {
       image: '/photos/digi/montana/montana1.jpg',
       description: 'MONTANA'
     }
+    
+
   ];
 
   const handleLocationClick = (locationId: string) => {

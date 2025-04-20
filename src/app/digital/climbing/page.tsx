@@ -4,7 +4,7 @@ import { ImageDataJSON} from '@/types/images';
 import LocationLayout from '../components/LocationLayout';
 
 export default function ItalyPage() {
-  const images = (imageData as ImageDataJSON).collections.italy;
+  const images = (imageData as ImageDataJSON).collections.climbing;
 
   return (
     <LocationLayout>
