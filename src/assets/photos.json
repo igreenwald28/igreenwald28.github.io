@@ -128,7 +128,15 @@
       {"src": "/photos/color/pnw/pnw6.jpg", "orientation": "landscape"},
       {"src": "/photos/color/pnw/pnw7.jpg", "orientation": "portrait"},
       {"src": "/photos/color/pnw/pnw8.jpg", "orientation": "portrait"},
-      {"src": "/photos/color/pnw/pnw5.jpg", "orientation": "portrait"}
+      {"src": "/photos/color/pnw/pnw5.jpg", "orientation": "portrait"},
+      {"src": "/photos/bw/europe/eurofilm1.jpg", "orientation": "portrait"},
+      {"src": "/photos/bw/europe/eurofilm2.jpg", "orientation": "portrait"},
+      {"src": "/photos/bw/europe/eurofilm3.jpg", "orientation": "landscape"},
+      {"src": "/photos/bw/europe/eurofilm4.jpg", "orientation": "portrait"},
+      {"src": "/photos/bw/europe/eurofilm5.jpg", "orientation": "portrait"},
+      {"src": "/photos/bw/europe/eurofilm6.jpg", "orientation": "portrait"}
+
+
 
 
     ]
