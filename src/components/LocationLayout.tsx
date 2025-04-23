@@ -1,6 +1,6 @@
 'use client';
 import Header from '@/components/Header';
-import '../styles/LocationStyles.css';
+import './LocationStyles.css'
 
 export default function LocationLayout({
   children,

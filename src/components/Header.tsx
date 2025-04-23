@@ -36,7 +36,12 @@ const Header: React.FC<HeaderProps> = ({ onDigitalClick }) => {
                     >
                         35MM 
                     </button>
-                    <button className="button">ABOUT</button>
+                    <button 
+                        className="button" 
+                        onClick={() => router.push('/about')}
+                    >
+                        ABOUT 
+                    </button>
                 </div>
                 <button 
                     className="instagram-button" 

@@ -1,7 +1,7 @@
 'use client';
 import imageData from '@/assets/photos.json';
 import { ImageDataJSON} from '@/types/images';
-import LocationLayout from '../components/LocationLayout';
+import LocationLayout from '@/components/LocationLayout';
 
 export default function ItalyPage() {
   const images = (imageData as ImageDataJSON).collections.pacnw;
