@@ -48,7 +48,10 @@
       { "src": "/photos/digi/vietnam/vietnam20.jpg", "orientation": "portrait"},
       { "src": "/photos/digi/vietnam/vietnam23.jpg", "orientation": "landscape"},
       { "src": "/photos/digi/vietnam/vietnam24.jpg", "orientation": "portrait"},
-      { "src": "/photos/digi/vietnam/vietnam25.jpg", "orientation": "portrait"}
+      { "src": "/photos/digi/vietnam/vietnam25.jpg", "orientation": "portrait"},
+      { "src": "/photos/digi/vietnam/vietnam26.jpg", "orientation": "landscape"},
+      { "src": "/photos/digi/vietnam/vietnam21.jpg", "orientation": "landscape"}
+
     ], 
     "centraleurope":[
       { "src": "/photos/digi/centeur/buda1.jpg", "orientation": "landscape"},
