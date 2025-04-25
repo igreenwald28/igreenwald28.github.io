@@ -2,7 +2,6 @@
     background-color: #000;
     color: white;
     min-height: 100vh;
-    padding: 2rem;
   }
   
   .gallery-grid {
@@ -10,6 +9,7 @@
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 2rem;
     margin-top: 2rem;
+    padding: 1rem;
   }
   
   .back-button {
