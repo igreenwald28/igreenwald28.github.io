@@ -4,7 +4,7 @@ import { ImageDataJSON} from '@/types/images';
 import LocationLayout from '@/components/LocationLayout';
 
 export default function ItalyPage() {
-  const images = (imageData as ImageDataJSON).collections.nyc;
+  const images = (imageData as ImageDataJSON).collections.italy;
 
   return (
     <LocationLayout>
@@ -16,7 +16,7 @@ export default function ItalyPage() {
           >
             <img
               src={image.src}
-              alt={`NYC photo ${index + 1}`}
+              alt={`Italy photo ${index + 1}`}
               className="gallery-image"
             />
           </div>
