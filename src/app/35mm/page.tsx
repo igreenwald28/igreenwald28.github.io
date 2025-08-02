@@ -6,6 +6,7 @@ import './Film.css';
 
 export default function Film() {
   const images = (imageData as ImageDataJSON).collections.film;
+  
 
   return (
     <LocationLayout>

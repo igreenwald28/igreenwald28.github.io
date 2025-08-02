@@ -16,7 +16,7 @@ export default function ItalyPage() {
           >
             <img
               src={image.src}
-              alt={`Italy photo ${index + 1}`}
+              alt={`Montana photo ${index + 1}`}
               className="gallery-image"
             />
           </div>

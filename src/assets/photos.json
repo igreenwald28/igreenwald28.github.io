@@ -142,11 +142,14 @@
       {"src": "/photos/bw/europe/eurofilm6.jpg", "orientation": "portrait"}
     ], 
     "climbing": [
+      {"src": "/photos/digi/climbing/climbing6.jpg", "orientation": "portrait"},
       {"src": "/photos/digi/climbing/climbing1.jpg", "orientation": "landscape"},
       {"src": "/photos/digi/climbing/climbing2.jpg", "orientation": "landscape"},
       {"src": "/photos/digi/climbing/climbing5.jpg", "orientation": "portrait"},
       {"src": "/photos/digi/climbing/climbing4.jpg", "orientation": "landscape"},
-      {"src": "/photos/digi/climbing/climbing3.jpg", "orientation": "landscape"}
+      {"src": "/photos/digi/climbing/climbing3.jpg", "orientation": "landscape"},
+      {"src": "/photos/digi/climbing/climbing8.jpg", "orientation": "portrait"},
+      {"src": "/photos/digi/climbing/climbing7.jpg", "orientation": "portrait"}
 
     ],
     "japan":[
